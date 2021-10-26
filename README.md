@@ -42,7 +42,7 @@ Failure to handle Aliucoin properly may result in one or more of the following (
 
 ## 🔌 Investing In Aliucoin
 
-The simplest way to invest in Aliucoin is to spread the word or [become a member](#Becoming-an-Aliucoin-Member). The best way is to contribute to Aliucord (make sure you actually make good PRs or else I will get yelled at).
+The simplest way to invest in Aliucoin is to spread the word or [become a member](#-becoming-an-aliucoin-member). The best way is to contribute to Aliucord (make sure you actually make good PRs or else I will get yelled at).
 
 ## 🎨 Contributing to Aliucoin
 
@@ -50,7 +50,7 @@ You may contribute in any way you see fit. This includes all regular GitHub acti
 
 ## 📲 Becoming an Aliucoin Member
 
-If you are contributing to Aliucoin, you may include in your Issue or PR that you wish to become a member. 
+If you are [contributing](#-contributing-to-aliucoin) to Aliucoin, you may include in your Issue or PR that you wish to become a member. 
 
 Otherwise, you may ask inside a Discord Server, where you may or may not be acknowledged.
 
