@@ -1,3 +1,4 @@
+<img src="https://i.didnt-ask.lol/kFzKvLSJ" alt="Aliucoin Logo">
 <h1 align="center">Aliucoin</h1>
 <p align="center">
   <a href="https://github.com/Aliucord/Aliucord">
