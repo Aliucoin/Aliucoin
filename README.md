@@ -1,5 +1,5 @@
-<img src="https://cdn.upload.systems/uploads/kFzKvLSJ.png" alt="Aliucoin Logo">
-<h1 align="center">Aliucoin</h1>
+<h1 align="center"><img src="https://cdn.upload.systems/uploads/kFzKvLSJ.png" alt="Aliucoin Logo" style="width:128x;height:128px;" align="center">
+  Aliucoin</h1>
 <p align="center">
   <a href="https://github.com/Aliucord/Aliucord">
     <img alt="Aliucord" src="https://img.shields.io/discord/811255666990907402?color=%2300C853&label=Aliucord%20Repo&logo=discord&logoColor=%2300C853&style=for-the-badge">
