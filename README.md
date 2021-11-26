@@ -21,26 +21,28 @@ Unlike other cryptocurrencies, you don't need to spend your hard-earned $$$ (mon
 
 ## ⚠️ Important Information
 
-* Aliucoin is not officially endorsed by Aliucord.
-* Aliucoin is *not* a real cryptocurrency, lol.
-* FUCK NFTs
+- Aliucoin is not officially endorsed by Aliucord.
+- Aliucoin is _not_ a real cryptocurrency, lol.
+- FUCK NFTs
 
 ## ⚡ EXTREMELY IMPORTANT WARNING ⚡
+
 Aliucoin is **VERY FRAGILE & EXTREMELY VOLATILE.** We are not responsible for any (un)documented side-effects or consequences the crypto may cause.
 
 Failure to handle Aliucoin properly may result in one or more of the following (Once again, we are not responsible for any):
-* Cant read
-* Kicks
-* Bans
-* Mutes, support mutes, dev mutes, prd mutes, etc.
-* Command fails
-* MIUI usage
-* Husking
-* No-attachments/embeds/emotes, no-offtopic
-* There is no uppercase C. "Aliucoin"
-* Automatic activation of "Kyza Mode".
-* Sorry, where was I again?
-* This pic go hard. feel free to screenshot
+
+- Cant read
+- Kicks
+- Bans
+- Mutes, support mutes, dev mutes, prd mutes, etc.
+- Command fails
+- MIUI usage
+- Husking
+- No-attachments/embeds/emotes, no-offtopic
+- There is no uppercase C. "Aliucoin"
+- Automatic activation of "Kyza Mode".
+- Sorry, where was I again?
+- This pic go hard. feel free to screenshot
 
 ## 🔌 Investing In Aliucoin
 
@@ -51,11 +53,12 @@ The simplest way to invest in Aliucoin is to spread the word or [become a member
 You may contribute in any way you see fit. This includes all regular GitHub actions, including but not limited to Issues and Pull Requests
 
 ## THe funny
+
 ven told me to do this xd
 
 [![c7.pm](https://c7.pm/img/c7pm.gif)](https://c7.pm)
-![](https://c7.pm/img/toast.png)
-![](https://c7.pm/img/elixire.gif)
+[![c7.pm](https://c7.pm/img/toast.png)](https://c7.pm)
+[![c7.pm](https://c7.pm/img/elixire.gif)](https://c7.pm)
 [![utsuho rocks](https://c7.pm/img/utsuhorocks.png)](https://utsuho.rocks)
 [![NotNite](https://notnite.com/assets/images/buttons/navigator.gif)](https://notnite.com)
 [![Project Lounge](https://c7.pm/img/projectloungenow.gif)](https://projectlounge.pw)
@@ -772,7 +775,7 @@ ven told me to do this xd
 
 ## 📲 Becoming an Aliucoin Member
 
-If you are [contributing](#-contributing-to-aliucoin) to Aliucoin, you may include in your Issue or PR that you wish to become a member. 
+If you are [contributing](#-contributing-to-aliucoin) to Aliucoin, you may include in your Issue or PR that you wish to become a member.
 
 Otherwise, you may ask inside a Discord Server, where you may or may not be acknowledged.
 
