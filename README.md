@@ -4,6 +4,9 @@
   <a href="https://github.com/Aliucord/Aliucord">
     <img alt="Aliucord" src="https://img.shields.io/discord/811255666990907402?color=%2300C853&label=Aliucord%20Repo&logo=discord&logoColor=%2300C853&style=for-the-badge">
   </a>
+    <a href="https://discord.gg/xJ6kqJgpqq">
+    <img alt="Aliucord" src="https://img.shields.io/discord/964529812741963866?color=%2377d0fb&label=Aliucoin%20Discord&logo=discord&logoColor=%2300C853&style=for-the-badge">
+  </a>
 </p>
 <p align="center">
   <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Aliucoin/Aliucoin?color=181717&logo=github&style=for-the-badge">
